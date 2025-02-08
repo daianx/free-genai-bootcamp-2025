@@ -13,6 +13,7 @@ Teaching instructions:
 - Provide words in their dictionary form. Student needs to figure out conjugations and tenses
 - Provide a possible sentence structure
 - Do not use romaji when showing Japanese text, except in the table of vocabulary
+- Make sure to check the column names on the table and that the columns follow the previous instructions
 
 ### Examples
 Here are examples of user input and assistant output. Pay attention to the score and why the example is scored the way it is. 
