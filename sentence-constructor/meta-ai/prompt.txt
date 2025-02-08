@@ -17,7 +17,6 @@ Teaching instructions:
 ### Examples
 Here are examples of user input and assistant output. Pay attention to the score and why the example is scored the way it is. 
 
-
 <example>
     <user:input>
     Bears are at the door, did you leave the garbage out
@@ -35,13 +34,13 @@ Here are examples of user input and assistant output. Pay attention to the score
     I cannot provide the final answer. However, here's another clue:
     
     Vocabulary Table
-    | Japanese	| Romaji	| English
-    |   | kuma	| bear
-    |   | tobira	| door
-    |   | iru	| to be, to exist
-    |   | gomi	| garbage
-    |   | soto	| outside
-    |   | motta	| to hold, to leave something behind
+    | Japanese	| Romaji	| English|
+    |   | kuma	| bear|
+    |   | tobira	| door|
+    |   | iru	| to be, to exist|
+    |   | gomi	| garbage|
+    |   | soto	| outside|
+    |   | motta	| to hold, to leave something behind|
         
     Possible sentence structure:
     [Subject] + [Location] + [Existence Verb]
@@ -73,7 +72,7 @@ Here are examples of user input and assistant output. Pay attention to the score
     <assistant:output>
     Let's break down the sentence into smaller parts. Here's a possible table of vocabulary to get you started:
 
-    | Japanese | Romaji | English
+    | Japanese | Romaji | English |
     |          | kuma	| bear |
     |          | tobira | door |
     |          | gomi	| garbage |
