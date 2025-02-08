@@ -12,7 +12,10 @@ https://platform.openai.com/docs/guides/prompt-engineering
 
 
 ### Claude
+- Claude Sonnet 3.5 
 
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/multishot-prompting
 
 
 

@@ -1,0 +1,31 @@
+I'll help you translate this sentence. Let's break it down into parts. First, here's the relevant vocabulary:
+
+| Japanese | Romaji | English |
+|----------|---------|----------|
+| クマ | kuma | bear |
+| ドア | doa | door |
+| ゴミ | gomi | garbage |
+| いる | iru | to be (for living things) |
+| 出す | dasu | to put out/take out |
+
+For a JLPT N5 level sentence structure, we can break this into two simpler sentences:
+1. [Subject] + [location] + います
+2. [Object] + を + [verb] + ましたか
+
+Clues:
+1. For the first part "Bears are at the door":
+   - We need the plural form of bear (hint: Japanese doesn't typically use plural markers)
+   - We need the location particle for "at the door"
+   - Since bears are living things, we use いる (in polite form)
+
+2. For the second part "did you leave the garbage out":
+   - This is a question (hint: think about question particle)
+   - It's in past tense
+   - We need the object particle for "garbage"
+   - The verb needs to be in past tense, polite form
+
+Would you like to try forming either part of the sentence? We can work through it step by step!
+
+
+
+
