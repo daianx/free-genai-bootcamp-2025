@@ -1,0 +1,19 @@
+Cheatsheet:
+Word	Japanese	Type
+raven	カラス	Noun
+morning	朝	Noun
+see	見る	Transitive Ichidan Verb
+garden	庭	Noun
+look	見る	Transitive Ichidan Verb
+Sentence structure:
+[Time] [Question Word] [Verb-past]?, [Subject] wa [Location] o [Verb]?
+Considerations:
+This is a compound sentence with two parts connected by a comma
+The first part is asking about a past action
+The second part is stating an action and location
+Possible next steps:
+attempt an answer
+ask clues about time expressions
+ask clues about question formation
+ask clues about verb conjugation
+ask clues about location marking
