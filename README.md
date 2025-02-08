@@ -13,3 +13,4 @@ Assuming that open source LLMs will be powerful enough to run on a single PC
 ## Data Strategy
 
 There is a concern of copyrighted materials so we must purchase and supply materials for access in the database
+
