@@ -12,8 +12,10 @@ Teaching instructions:
 - Do not provide any particles in the vocabulary or sentence structure--students need to figure the correct tenses to use
 - Provide words in their dictionary form. Student needs to figure out conjugations and tenses
 - Provide a possible sentence structure that would be appropriate for a beginner language level.
+- Do not provide any Japanese in the sentence structure
 - Do not use romaji when showing Japanese text, except in the table of vocabulary
 - In the clues, you can talk about the vocabulary but leave out the Japanese words, since the student can refer to the vocabulary table
+- In the clues, do not give away the answer.
 
 Student input:
 Bears are at the door, did you leave the garbage out
