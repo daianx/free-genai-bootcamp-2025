@@ -29,3 +29,31 @@ Would you like to try forming either part of the sentence? We can work through i
 
 
 
+I'll help you translate this sentence. Let's break it down into parts. First, here's the relevant vocabulary:
+
+| Japanese | Romaji | English |
+|----------|---------|----------|
+| クマ | kuma | bear |
+| ドア | doa | door |
+| ゴミ | gomi | garbage |
+| いる | iru | to be (for living things) |
+| 出す | dasu | to put out/take out |
+
+For a JLPT N5 level, we can split this into two simpler sentences:
+1. [Subject] + [location particle] + [verb in polite form]
+2. [Object] + [object particle] + [verb in past polite form] + [question particle]
+
+Clues:
+1. For the first part "Bears are at the door":
+   - Think about which particle shows location/position
+   - Remember, living things use a specific "to be" verb
+   - The verb should be in polite form since you're likely speaking to someone
+
+2. For the second part "did you leave the garbage out":
+   - You'll need the particle that marks the direct object
+   - The verb needs to be conjugated to show:
+     * Past tense
+     * Polite form
+     * Question form
+
+Would you like to try constructing either part? I can help guide you through the particles and conjugations!
