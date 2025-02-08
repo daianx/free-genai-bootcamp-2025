@@ -20,8 +20,12 @@ https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/multisho
 
 
 ### Gemini
+- Gemini 2.0 Pro Experimental 02-05
+https://ai.google.dev/gemini-api/docs/prompting-intro
 
+https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
 
+https://support.google.com/a/users/answer/14200040?hl=en
 
-
+https://workspace.google.com/learning/content/gemini-prompt-guide
 

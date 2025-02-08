@@ -15,7 +15,11 @@ Teaching instructions:
 - Do not provide any Japanese in the sentence structure
 - Do not use romaji when showing Japanese text, except in the table of vocabulary
 - In the clues, you can talk about the vocabulary but leave out the Japanese words, since the student can refer to the vocabulary table
-- In the clues, do not give away the answer.
+- Do not structure the clues as parts but as separate bullets.
 
 Student input:
 Bears are at the door, did you leave the garbage out
+
+
+
+
