@@ -35,13 +35,13 @@ Here are examples of user input and assistant output. Pay attention to the score
     I cannot provide the final answer. However, here's another clue:
     
     Vocabulary Table
-    Japanese	| Romaji	| English
-    | kuma	| bear
-    | tobira	| door
-    | iru	| to be, to exist
-    | gomi	| garbage
-    | soto	| outside
-    | motta	| to hold, to leave something behind
+    | Japanese	| Romaji	| English
+    |   | kuma	| bear
+    |   | tobira	| door
+    |   | iru	| to be, to exist
+    |   | gomi	| garbage
+    |   | soto	| outside
+    |   | motta	| to hold, to leave something behind
         
     Possible sentence structure:
     [Subject] + [Location] + [Existence Verb]
